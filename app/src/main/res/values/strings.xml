@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProgressDialog</string>
+
+    <string name="loading">Loading …</string>
+
+    <string name="show_dialog">Show Dialog</string>
+
+    <string name="hide_dialog">Hide Dialog</string>
+</resources>
